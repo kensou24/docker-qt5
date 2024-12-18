@@ -22,7 +22,7 @@
 使用 下述语句构建即可
 
 ```cmd
-docker build --no-cache --pull -t homepanda.mynetgear.com/qt5:20241218 .
+docker build --no-cache --pull -t myweb/qt5:20241218 .
 ```
 
 #### 运行:

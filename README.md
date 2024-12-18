@@ -55,5 +55,8 @@ services:
 
 > enjoy！
 
+[![测试界面](pic/000-示例.png)](测试界面)
+
 tips:
  启动脚本异常，可以右键点击 qtcreator 自启动即可
+[![启动](pic/001-启动qtcreator.png)](启动)
